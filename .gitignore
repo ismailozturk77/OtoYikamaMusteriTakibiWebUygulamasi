@@ -5,19 +5,19 @@
 *.userosscache
 *.userprefs
 
-# Build sonuçlarý
+# Build sonuÃ§larÄ±
 bin/
 obj/
 
-# Paket dosyalarý
+# Paket dosyalarÄ±
 *.nupkg
 *.snupkg
 packages/
 
-# Yayýnlama sonuçlarý
+# YayÄ±nlama
 *.Publish.xml
 
-# Geçici dosyalar
+# GeÃ§ici dosyalar
 *.log
 *.tlog
 *.tmp
@@ -27,15 +27,11 @@ packages/
 *.pyc
 *.pyo
 
-# Config dosyalarý
-appsettings.json
-appsettings.*.json
-
-# Kiþisel bilgileri saklayan dosyalar
+# KiÅŸisel bilgileri saklayan dosyalar
 *.env
 *.secret
 
-# OS'e özel dosyalar
+# OS'e Ã¶zel dosyalar
 .DS_Store
 Thumbs.db
 desktop.ini
@@ -44,5 +40,5 @@ desktop.ini
 *.orig
 *.rej
 
-# Diðer
+# backup
 *.bak
